@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518601738 source:e:\project library\minesweeper\main.cpp
+	"minesweeper.h"
+
+1518600677 e:\project library\minesweeper\minesweeper.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
